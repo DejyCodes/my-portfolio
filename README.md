@@ -26,4 +26,4 @@ A Python-based task management application with:
 - Delete functionality
 - File storage
 
-[View Smart Task Manager on GitHub] (https://github.com/DejyCodes/my-portfolio)
+[View Smart Task Manager on GitHub] (https://github.com/DejyCodes/smart-task-manager)
